@@ -9,7 +9,7 @@ This file
 # tsh.c
 The main shell program that runs the shell session
 
-# The remaining files are used to test your shell
+# The remaining files are used to test the shell
 
 # sdriver.pl	
 The trace-driven shell driver
